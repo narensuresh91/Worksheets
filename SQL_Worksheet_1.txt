@@ -1,0 +1,28 @@
+SQL - Worksheet -1 (Answers)
+
+1. A) Create and D) ALTER
+2. A) Update, B) Delete and C) Select
+3. B) Structured Query Language
+4. B) Data Definition Language
+5. A) Data Manipulation Language
+6. C) Create Table A(B int,C float)
+7. B) Alter Table A ADD COLUMN D float
+8. B) Alter Table A Drop COLUMN D
+9. B) Alter Table A Alter Column D int
+10.C) Alter Table A ADD Primary Key(B)
+
+11. A data warehouse is a central database that combines information from single/several sources. Data is generally cleansed using the ETL process and stored in to the 
+    data warehouse. Data can be queried from the warehouse based on requirements. It is a central repository for accessing data for analysis and reporting purposes.
+
+12.Online Transaction processing (OLTP) is a system that captures,stores and processes data from real time transactions. This consists of only current operational data.
+   Online Analytical Processing (OLAP) on the other hand works on historical data from various databases.Data warehouse is an example of an OLAP system.
+
+13. The main characteristics of data warehouse are as follows:
+	Integrated   - Uniform method of extraction of data
+	Time variant - Data is organised by time periods
+	Non Volatile - It is periodically update, not updated on real time (OLAP)
+
+14. Star schema is the fundamental schema which is used to build a data warehouse. It creates references from the fact table to the dimension tables.
+    It is named as a star schema due to its structural resemblance to a star where a centre point is connected to multiple other points.
+
+15. SETL or Set Theory Language is a high level programming language which is based on the notion of sets and set theory. 
