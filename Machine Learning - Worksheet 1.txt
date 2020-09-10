@@ -1,0 +1,40 @@
+Machine Learning - Worksheet 1
+
+1. C) Between -1 and 1
+2. C) Recursive feature elimination
+3. C) Hyperplane
+4. A) Logistic Regression
+5. D) Cannot be determined
+6. B) increases
+7. A) Reduce overfitting
+8. B)&C)
+9. B)&C)
+10.A),C)&D)
+
+11. An outlier is any value of a feature that lies abnormally far from the rest of the data in the same feature.
+    IQR or inter quartile range is the difference between 3rd Quartile and the 1st.
+		IQR=Q3-Q1
+    This IQR is then multiplied by 1.5(a constant)
+		IQR x 1.5
+    Then subtract this from first quartile and add it to third quartile
+		Q1-(1.5 x IQR) and Q3+(1.5 x IQR)
+    Any number that does not fall within this range is considered an outlier.
+
+12. Bagging is a technique to reduce the variance of the data by providing additional data
+    for training using repetitive combinations whereas boosting is a technique which adjusts 
+    the weight of an observation.
+
+13. Adjusted R2 score gives the percentage of variation explained by the independent
+    variable that affect the dependent variable.
+
+14. Normalisation is the process by which a feature is scaled so as to have all the data points
+    in the range of 0 to 1, while Standardisation is the process by which the feature /variable
+    is transformed to have a mean of 0 and standard deviation of 1.
+
+15. Cross validation is a technique in which the data is fed to the model for training 
+    in the form of multiple subsets. The entire data set is used for training and testing
+    in consecutive steps. 
+    Advantages 		- Reduces overfitting, Hyper parameter tuning
+
+    Disadvantages 	- Increases training time, chances to misses some observations and
+			  select some more than once. 

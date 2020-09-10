@@ -1,0 +1,44 @@
+PYTHON - WORKSHEET 2 - SOLUTIONS
+
+1. B) Struct
+2. C) 1_no
+3. A) in
+4. A) Left to Right
+5. A) iii-iv-ii-i
+6. C) 0.3333
+7. A) x**4**4
+8. B) str
+9. B) & D)
+10.A),C) & D)
+
+11. Listand tuple are ordered collection of elements.
+    Dictionary and sets are unordered collection of elements.
+    List and dictionary is mutable where as tuples are immutable.
+    Lists and tuples are indexed where as dictionary and sets are not indexed.
+
+12.Yes, strings are mutable. The below code replaces '+' with ' '
+        str='I+Love+Python'
+        print(str)
+        print(str.replace('+',' '))
+
+13.ord() function returns the unicode character pertaining to the string value entered
+   if a is the variable, the below code will help find the datatype of a:
+        type(a)
+
+14. The below code gives the solution to a quadratic equation :
+    
+    import cmath
+    a=int(input('Enter Value for a'))
+    b=int(input('Enter Value for b'))
+    c=int(input('Enter Value for c'))
+    d=b**2-(4*a*c)
+    x1=-(b+cmath.sqrt(d))/(2*a)
+    x2=-(b-cmath.sqrt(d))/(2*a)
+    print('The first solution is ',x1)
+    print('The second solution is ',x2)
+
+15. Using the sum of natural numbers formula s=n(n+1)/2, the code is as below:
+
+    n=int(input('Enter the natural number'))
+    sum=(n*(n+1))/2
+    print(sum)
