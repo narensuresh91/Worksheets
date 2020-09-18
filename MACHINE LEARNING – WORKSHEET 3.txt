@@ -1,0 +1,50 @@
+MACHINE LEARNING – WORKSHEET 3
+
+1. Linear,RBF and polynomial are kernels used in Support vector machine machine learning
+   Linear - It takes a normal dot product and hence the decision boundary in 2d plane is always a line.
+   Polynomial - Here decision boundaries are more advanced and can have boundaries like parabola. 
+   RBF - In RBF, the space is a space of gaussian distributions.Each point is treated as a density function of a normal distribution
+
+In terms of learning times, linear is the fastest followed by poly and then rbf which is the slowest
+
+2. The residual sum of squares measures the amount of error remaining between the regression function and the data set. 
+   A smaller residual sum of squares figure represents a regression function. Residual sum of squares–also known as the sum of squared residuals–essentially determines how well a regression model explains or represents the data in the model.
+   R-squared measures the strength of the relationship between your model and the dependent variable.
+   Residual sum of squares is better in any model since there is less variation in the data set
+
+3. TSS is the square of difference between the predicted value and the mean.
+   RSS is the square of difference between the predicted value and actual observed value
+   ESS is the square of difference between the actual observed value and the mean
+    The relation equation is ESS +RSS = TSS
+
+4. Gini impurity is the measurement of likelyhood of an incorrect classifiation of a new instance of a random variable.
+   Gini impurity index is one of the measures used in decision tree algorithms to obtain the 
+   optimal split from a root node.
+
+5. Yes, because the coefficient estimates are not constrained.
+
+6. Techniques that create multiple models and then combine them to produce improved results.
+   The results of ensemble models are generally better than the performance of an individual model.
+
+7. Bagging is a way to decrease the variance in the prediction by generating additional data for training from dataset using combinations with repetitions to produce multi-sets of the original data. 
+   Boosting is an iterative technique which adjusts the weight of an observation based on the last classification.
+
+8. The out-of-bag (OOB) error is the average error for each calculated using predictions from the trees that do not contain in their respective bootstrap sample.
+
+9. K-fold cross validation is a technique to check the performance of the model. The data is split into k folds and then an iterative training is done using each fold as test set and the rest and training set atleast once.
+   Then the accuracy score is calculated as the mean of all the models. This is a good estimator to check if the model is an over-fitting one or not.
+
+10. Hyperparameter is the process of tuning the parameters of a model after an initial training has been done. 
+    It is generally to change a set of parameters to see if the performance of the model has increased. It is a trial and error method.
+ 
+11. A large learning rate would cause the model to conclude into a suboptimal solution before the entire process of learning is done.
+
+12.  the bias–variance tradeoff is the property of a set of predictive models whereby models with a lower bias in parameter estimation have a higher variance of the parameter estimates across samples, and vice versa. 
+
+13. Regularization is required since an unregualrised model can cause overfitting.
+
+14. Both are boosting techniques which converts a weak learner into strong learners.
+    Adaboost focuses on the weak learners and keeps changing its weight upon each iteration to finally make the weak learners learn better about the model.
+    In Gradient boosting,the weak learner focuses and trains on the remaining errors of the strong learner.
+
+15. Generally, logistic regression is reffered to as linear classification. It can be applied to non linear data, but the model performance would not be optimal.
