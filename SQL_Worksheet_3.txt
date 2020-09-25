@@ -1,0 +1,56 @@
+SQL WORKSHEET - 3
+
+1. CREATE TABLE Customers( 
+		customerNumber int NOT NULL,
+		customerName varchar(20),
+		contactLastName varchar(20),
+		contactFirstName varchar(20),
+		phone varchar(20),
+		addressLine1 varchar(30),
+		addressLine2 varchar(30),
+		city varchar(20),
+		state varchar(20),
+		postalCode int,
+		country varchar(20),
+		salesRepEmployeeNumber int,
+		creditLimit float,
+		PRIMARY KEY (customerNumber));
+
+2. CREATE TABLE Orders(
+		orderNumber int NOT NULL,
+		orderDate DATETIME,
+		requiredDate DATETIME,
+		shippedDate DATETIME,
+		status varchar(20),
+		comments varchar(255),
+		customerNumber int,
+		PRIMARY KEY (orderNumber));
+
+3. SELECT * FROM Orders; - to show all data
+   and 
+   SHOW COLUMNS FROM Orders; - to show columns
+
+4. SELECT comments FROM Orders;
+
+5. SELECT count(*) FROM Orders where date(orderDate)='Date_Value';
+
+6. SELECT employeeNumber,lastName,firstName from employees;
+
+7. SELECT orderNumber, customerName FROM Orders,Customers
+	WHERE Orders.customerNumber=Customers.customerNumber
+8.  
+
+9. SELECT paymentDate,sum(amount) from payments
+    group by date(paymentDate);
+
+10. SELECT productName,MSRP,productDescription from products;
+
+11. 
+
+12. 
+
+13. 
+
+14.
+
+15.		
