@@ -1,0 +1,31 @@
+MACHINE LEARNING – WORKSHEET 2
+
+1. B)Low R-squared value for train-set and High R-squared value for test-set.
+2. B)Decision trees are highly prone to overfitting.
+3. C) Random Forest
+4. B) Sensitivity
+5. B) Model B
+6. A) Ridge & D) Lasso
+7. A) Adaboost & D)xgboost
+8. A)Pruning & C) Restricting the max depth of the tree
+9. 
+10. R squared value only increases as we keep on adding features /variables where as adjusted R2 score can increase or decrease. So as we proceed with adding more and 
+    more features, R2 and adjusted R2 are calculated. When a point reaches where R2 is increased and the consecutive adjusted R2 is decreased, the variable is omitted.
+
+11. Lasso uses L1 regularization technique, Ridge uses L2 regularization technique.
+    The difference is that Lasso regression adds absolute value of magnitude of coefficient as penalty term to the loss function whereas
+    Ridge adds the square of magnitude of coefficient as the penalty term.
+
+12. VIF or variance inflation factor gives the extend of correlation between one predictor and the others in a model.It is used for diagnosing collinearity/multicollinearity.
+    VIF is also the reciprocal of tolerance value. Under ideal conditions VIF<3 indicates lower correlation among variables. VIF<10 is considered an acceptable value.
+
+13. Scaled data means that the data is contained within a fixed range[0:1] and it is easier for the machine to interpret and calculate. It reduces the computation time.
+    
+14. R2, adjusted R2 and chi square are good metrices of evaluating the goodness of fit for a linear regression model.
+
+15. Sensitivity(Recall)	= TP/(TP+FN)		= 0.952
+    Specificity		= TN/(TN+FP)		= 0.827
+    Precision		= TP/(TP+FP)	   	= 0.4545
+    Accuracy 		= TP+TN/(TP+FP+FN+TN) 	= 0.88
+    
+ 

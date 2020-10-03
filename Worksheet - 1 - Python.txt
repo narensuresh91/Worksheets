@@ -1,0 +1,13 @@
+WORKSHEET - 1 PYTHON
+
+1. C) %
+2. B) 0
+3. C) 24
+4. A) 2
+5. 6
+6. C) the finally block will be executed no matter if the try block raises an error or not.
+7. A) It is used to raise an exception.
+8. B) while defining a lambda function
+9. A) _abc and C) abc2
+10.A) Yield and B) raise
+
