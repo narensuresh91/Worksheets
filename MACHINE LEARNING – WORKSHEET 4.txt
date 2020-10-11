@@ -1,0 +1,47 @@
+MACHINE LEARNING – WORKSHEET 4
+
+Q1. A) GridSearchCV()
+Q2. A) Random forest
+Q3. B) The regularization will decrease
+Q4. A) It regularizes the decision tree by limiting the maximum depth up to which a tree can be grown.
+Q5. A) It's an ensemble of weak learners.
+Q6. A) Gradient Descent algorithm can diverge from the optimal solution.
+Q7. B) Bias will decrease, Variance increase
+Q8. A) model is underfitting
+
+Q9. Gini index is obtained by the formula 1- S(p^2)
+    Here the probabilities are 0.4 and 0.6 respectively.
+    Thus Gini index = 1 - ((0.4*0.4) + (0.6*0.6))
+		    = 1-(0.16+0.36)
+		    = 0.48
+    
+    Entropy of the dataset is calculated by the fomula P1log2P1 + P2log2P2
+    Entropy = 0.4log2(0.4)+0.6log2(0.6)
+	    = 0.4*(-1.32)+ 0.6*(-0.73)
+	    = -0.92 + -0.13
+	    = - 1.05
+
+Q10. Advantages of random forest over decision tree are :
+	i) Random Forest reduces overfitting and is more accurate.
+	ii)Random forest supports bagging and bootstrapping algorithms
+	iii)Random forest can create a model with a much lower variance by using multiple trees.
+
+Q11. Feature scaling is necessary so as to avoid the machine giving additional weights to higher values and will create a model that is not accurate.
+The most common techniques used for scaling are Normalization and Standardization.
+
+Q12. i)Scaling increases the speed of gradient descent
+     ii) If we don’t scale the data, the level curves (contours) would be narrower and taller
+
+Q13. No, accuracy is not a good metric for the an imbalanced data classification problem. Accuracy will be high as the dataset is imbalanced and the machine 
+predictions would be in such a way that all the inputs would be directly predicted to the most occuring outcome. Hence more metrics like confustion matrix, f1 score, recall and precision are to be considered.
+
+Q14. F1- Score is the harmonic mean of the precision and recall which takes into consideration the true positive rate and the true negative rates.
+	F1- score has a highest possible value of 1, is calculated by :
+
+	F1 = 2x(precisionxrecall)/(precision+recall)
+
+Q15. Fit() calculates the values ( mean and standard deviation) of the parameters.
+     Transform() applies the values of the parameters on the actual data and returns the normalized value
+     fit_transform performs both the actions fit and transform in the same step.	
+
+     
