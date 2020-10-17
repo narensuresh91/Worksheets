@@ -1,0 +1,20 @@
+WORKSHEET-2 - SQL
+
+Q1. D) Unique
+Q2. D) None of them
+Q3. A) Each entry in the primary key uniquely identifies each entry or row in the table
+Q4. D) All of the above
+Q5. B) Foreign Key
+Q6. C) 2
+Q7. A) one to many
+Q8. B) many to one
+Q9. A) delivery id
+Q10.D) 2
+Q11.C) one to one
+Q12.C) Table
+Q13. A) Insert into
+
+Q14. B) Unique, C) Primary Key
+Q15. A) A blood group can contain one of the following values - A, B, AB and O.
+     ,B) A blood group can only contain characters
+     & C) A blood group cannot have null values
