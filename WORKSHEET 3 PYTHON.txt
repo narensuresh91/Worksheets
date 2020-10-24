@@ -1,0 +1,12 @@
+WORKSHEET 3 PYTHON
+
+Q1. D) int(‘32’)
+Q2. C) 4
+Q3. A) a**b**c
+Q4. A) <class ‘type’>
+Q5. C) 65
+Q6. D) Method
+Q7. B) False
+Q8. A) Always
+Q9. B) 42e3 and C) 4.2038
+Q10. B) You can pass keyword arguments in any order & C) You can call a function with positional and keyword arguments.
