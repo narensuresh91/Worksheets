@@ -1,0 +1,12 @@
+PYTHON – WORKSHEET 9 (PANDAS)
+
+Q1. D) All of the above
+Q2. A) True
+Q3. C) deleting columns
+Q4. A) <NA>
+Q5. C) 3 dimensional
+Q6. D) 1
+Q7. A) in
+Q8. B) value, size
+Q9. C & D
+Q10. A,B,C & D

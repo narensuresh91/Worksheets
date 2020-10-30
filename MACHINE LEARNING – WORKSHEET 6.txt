@@ -1,0 +1,16 @@
+MACHINE LEARNING – WORKSHEET 6
+
+Q1. A) Yes
+Q2. A) Red
+Q3. A) They allow misclassifications, that’s why they are not optimal
+    B) They cannot be used when the data is not completely linearly separable while allowing no errors
+    &  C) They are not optimal to use in case of outliers
+Q4. A) It is the most optimal classifier in a completely linearly separable data.
+Q5. B) No
+Q6. D) They can be used in case data is not completely linearly separable
+Q7. A) They take the data from lower dimensional space to some higher dimensional space in case the data is not
+likely to be linearly separable
+Q8. A) These functions gives value of the dot product of pairs of data-points in the desired higher dimensional
+space without even explicitly converting the whole data in to higher dimensional space
+Q9. D) It is a model trained using supervised learning. It can be used for classification not for regression.
+Q10. D) All of the above
