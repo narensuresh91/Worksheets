@@ -1,0 +1,28 @@
+Statistics– WORKSHEET 4
+
+Q1. a) True
+Q2. a) Central Limit Theorem
+Q3. b) Modeling bounded count data
+Q4. d) All of the mentioned
+Q5. c) Poisson
+Q6. 
+Q7. b) Hypothesis
+Q8. a) 0
+Q9. b) Outliers can be the result of spurious or real processes
+
+Q10. Normal distribution is any distribution which has a mean of 0 and has a standard deviation of 1. It is represented by a bell shaped curve symmetric at the y axis.
+
+Q11. Missing data if very less in percentage can be removed from the dataset. If otherwise, imputation techniques are to be used as:
+	Categorical data - use the most frequent occurance to fill the data
+Numerical - Mean substitution, hot-deck, cold-deck can be used.
+
+Q12. A/B testing is a randomized experiment with two variants A and B.Hypothesis test is then done to find which of the variant is more effective.
+
+Q13. Yes, it is acceptable to an extend if the number of missing values are not a big chunk of the dataset. Also needs to be considered if majority of data is within the region of the mean.
+
+Q14. LR is a linear approach modelling the relationship between a dependent variable and the independent variables.
+
+Q15. Descriptive statistics and inferential statistics
+	Descriptive - The branch of statistics that focuses on collecting, summarizing, and presenting a set of data.
+	Inferential - The branch of statistics that analyzes sample data to draw conclusions about a population.
+
