@@ -1,0 +1,28 @@
+DEEP LEARNING – WORKSHEET 3
+
+Q1. B) As number of hidden layers increase, model capacity increases
+Q2. C) It normalizes (changes) all the input before sending it to the next layer
+Q3. A) Network will not converge
+Q4. D) All of these
+Q5. C. (-4,-4,3)
+Q6. B) Simulate the network on a test dataset after every epoch of training. Stop training when the generalization
+error starts to increase
+Q7. A) Mini Batch Gradient Descent
+Q8. A) Freeze all the layers except the last, re-train the last layer
+Q9. A) Overfitting & B) Training is too slow
+Q10.A,B,C & D
+
+Q11. The output would be a simple linear function of one degree. The performance of the model would be very less in such a case
+
+Q12. Forward propagation (or forward pass) refers to the calculation and storage of intermediate variables (including outputs) for a neural network in order from the input layer to the output layer.
+     Backpropagation refers to the method of calculating the gradient of neural network parameters. In short, the method traverses the network in reverse order, from the output to the input layer.
+
+Q13. In Batch Gradient Descent, we use the whole training data per epoch
+     In Stochastic Gradient Descent, we use only single training example per epoch 
+     In Mini-batch Gradient Descent lies in between of these two extremes, in which we can use a mini-batch(small portion) of training data per epoch
+
+Q14. 	Computational Ease
+	Easily fits in the system memory
+	vectorization
+
+Q15. Transfer learning is the reuse of a pre-trained model on a new problem. It can train deep neural networks with comparatively little data.
