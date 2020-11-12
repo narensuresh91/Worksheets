@@ -1,0 +1,20 @@
+WEB SCRAPING – WORKSHEET 4
+
+Q1. B) get_element_by_name()
+Q2. C) find_element_by_tag_name()
+Q3. B) Explicit wait
+Q4. A) title_is
+Q5. D) all of the above
+Q6. A) For large data Scrapy is faster than selenium
+Q7. D) both A & B
+Q8. C) Hyper Text Markup Language
+Q9. B) soup=BeautifulSoup(html_doc,’html.parser’)
+Q10.D) “html-xml”
+Q11.C) find_next()
+Q12.A) find_previous_siblings()
+Q13.C) limit
+Q14.D) None of the above
+
+Q15. The only difference between find_all() and find() is that find_all() returns a list containing the single result, and find() just returns the result.
+     find_all performs the same function of find provided the limit=1.
+     If find_all() can’t find anything, it returns an empty list. If find() can’t find anything, it returns None:
