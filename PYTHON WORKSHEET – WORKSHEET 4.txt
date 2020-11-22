@@ -1,0 +1,20 @@
+PYTHON WORKSHEET – WORKSHEET 4
+
+Q1. B) len()
+Q2. C) compiled then interpreted
+Q3. B) [1,2,2,1]
+Q4. D) [60,30]
+Q5. C) a[ : :-1]
+Q6. B) Meena
+Q7. C) [“World Hello ”, “Python Hello ”, “World Adios ”, “Python Adios ”]
+Q8. A) 4
+Q9.A) l1+l2
+Q10.A) s[0]+s[-1], B) s[ : : -1][-1] + s[len(s)-1] & D) s[ : : -1][ : : -6]
+Q11. A compiled language is a programming language which are generally compiled and not interpreted. It is one where the program, once compiled, is expressed in the instructions of the target machine; this machine code is undecipherable by humans.
+     An interpreted language is a programming language which are generally interpreted, without compiling a program into machine instructions. It is one where the instructions are not directly executed by the target machine, but instead read and executed by some other program.
+     Python is an interpreted language but code is compiled first.
+Q12.  To add additional directories where python will look for modules and packages.
+Q13. strip() function can be used to remove all leading and trailing spaces.
+     Eg: a = "  Hello  "
+	strip(a) would give the o/p as "Hello"
+

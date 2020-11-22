@@ -1,0 +1,17 @@
+STATISTICS – WORKSHEET 3
+
+Q1. D) Expected
+Q2. D) All of these
+Q3. C) 6
+Q4. A) Normal distribution & B) Chi - squared distribution
+Q5. C) F-Distribution
+Q6. B) Hypothesis
+Q7. A) Null Hypothesis
+Q8. A) Two tailed
+Q9. B) Research Hypothesis
+Q10.D) A) np
+Q11.B) Discrete distribution
+Q12.D) vnpq----
+Q13.C) 0.099
+Q14.D) 0 and 1
+Q15.C) remains constant
