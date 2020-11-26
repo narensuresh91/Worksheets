@@ -1,0 +1,25 @@
+Statistics– WORKSHEET 6
+
+Q1. a) Total Variation = Residual Variation – Regression Variation
+Q2. c) binomial
+Q3. a) 2
+Q4. (a) Type-I error
+Q5. (a) Power of the test
+Q6. (d) None of them
+Q7. (b) Hypothesis
+Q8. (d) All of the mentioned
+Q9. (a) 0 
+
+Q10. Bayes' theorem states that if A and B denote two events, P(A|B) denotes the conditional probability of A occurring, given that B occurs.
+
+Q11. A z-score indicates how many standard deviations an element is from the mean. A z-score can be calculated from the following formula.
+
+	z = (X - µ) / s
+
+Q12.  t-test is a type of inferential statistic used to determine if there is a significant difference between the means of two groups.A t-test is used as a hypothesis testing tool, which allows testing of an assumption applicable to a population. 
+
+Q13. Percentile can be explained as the percentage of values falling below the specific percentile.
+
+Q14. The one-way analysis of variance (ANOVA) is used to determine whether there are any statistically significant differences between the means of two or more independent groups.
+
+Q15. It provides the overall test of equality for group means, it can control the type 1 error rate.
