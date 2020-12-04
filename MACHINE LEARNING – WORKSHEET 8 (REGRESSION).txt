@@ -1,0 +1,14 @@
+MACHINE LEARNING – WORKSHEET 8 (REGRESSION)
+
+Q1. A) The mean of the Є is zero & B) Є can be either or negative
+Q2. A) It covers up the errors introduced because of the variables which are not present in the given predictors set
+       X but they are influencing the response variable. & C) It covers up the error introduced because we can never find the exact or true f(X).
+Q3. B) The random error will be dependent on y. & C) The random error will be dependent on X.
+Q4. B) To understand the relationship between the response variable sales and the predictor variables marketing
+ budget on different media like TV, Newspaper, Radio, etc. & C) To predict the stock price of a company based on the previous stocks prices.
+Q5. D) All of the above
+Q6. B) Least Squares Method & C) Minimising Euclidean distances 
+Q7. A) y1 = Β*x1 + C, where B and C are parameters & C) y1 = B* Sin(x) + C, where B and C are parameters
+Q8. B) Polynomial function of AGE with degree>1
+Q9. C) -1 < P < 0
+Q10.C) Spearman correlation coefficient = 1
