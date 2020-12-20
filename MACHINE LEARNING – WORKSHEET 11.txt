@@ -1,0 +1,31 @@
+MACHINE LEARNING – WORKSHEET 11
+(LINEAR REGRESSION)
+
+Q1. B) always increases
+Q2. B) SST = SSR + SSE
+Q3. A) difference between the actual value and the predicted value.
+Q4. C) By its slope
+Q5. B) can be either -1 or 1
+Q6. A) Scatter plot
+Q7. D) None of the above.
+Q8. C) Ridge
+Q9. A) It shows the causal relationship between dependent and independent variables and B) It shows the positive or negative relation between dependent and independent variables
+Q10.A) Reducing the training time, B) Generalizing the test set
+Q11.A) Normal Equation & B) Singular Value Decomposition
+
+Q12. R2 explains the degree to which the input variables impact the output variable. The higher the value, the better the model performance. In case of addition of new features R2 always keeps increasing.
+     Adjusted R2 on the other hand only takes into consideration from only those variables whose addition in the model are significant.
+
+Q13. cost function is defined as a function that maps an event or values of one or more variables onto a real number intuitively representing some “cost” associated with the event.
+
+Q14. SST - The sum of squares total, denoted SST, is the squared differences between the observed dependent variable and its mean.
+     SSR -  It is the sum of the differences between the predicted value and the mean of the dependent variable
+     SSE - The error is the difference between the observed value and the predicted value.
+
+Q15. The evaluation metrics for Linear Regression are:
+R2
+Adjusted R2
+Accuracy score
+Mean Squared Error
+Root Mean Squared Error
+Mean Absolute Error 
